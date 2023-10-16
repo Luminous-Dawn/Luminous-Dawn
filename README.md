@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 </div><br>
-  
+
 <table>
   <tr>
-    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Luminous-Dawn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luminous-Dawn's github stats" /></a></th>
-    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminous-Dawn&layout=compact&theme=buefy&hide_border=true"/></a></th>
+    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Luminous-Dawn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luminous-Dawn's github stats"/></a></th>
+    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminous-Dawn&layout=compact&hide_border=true&theme=buefy"></a></th>
   </tr>
 </table>
