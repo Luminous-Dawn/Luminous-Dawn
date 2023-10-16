@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Luminous-Dawn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luminous-Dawn's github stats"/></a></th>
+    <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Luminous-Dawn&show_icons=true&theme=buefy&hide_border=true" alt="Luminous-Dawn's github stats"></a></th>
     <th><a href="https://github.com/Luminous-Dawn"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luminous-Dawn&layout=compact&hide_border=true&theme=buefy"></a></th>
   </tr>
 </table>
