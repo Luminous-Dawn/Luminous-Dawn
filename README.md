@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BBA8FF&height=300&section=header&section=right&text=Welcome%20to%20Luminous-Dawn's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40)
 
-<div align="center">
-  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLuminous-Dawn%2Fhit-counter&count_bg=%23DCD0FF&title_bg=%236C667C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
 
 <strong>💬 Ask me about</strong>  
   &emsp; I'm SeonHo<br>
